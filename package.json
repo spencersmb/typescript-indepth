@@ -1,0 +1,27 @@
+{
+  "name": "eyepatch",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -c -b src/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavik57/eyepatch.git"
+  },
+  "keywords": [
+    "eyepatch"
+  ],
+  "author": "Slava Shpitalny <slavik57@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavik57/eyepatch/issues"
+  },
+  "homepage": "https://github.com/slavik57/eyepatch#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.3",
+    "tslint": "^1.17.3"
+  }
+}
